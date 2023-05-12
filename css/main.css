@@ -1,0 +1,128 @@
+div.anita_row {
+    height: 200px;
+    border: 1px dashed red;
+}
+
+div.anita_row>div {
+    height: 100%;
+    border: 1px dashed #000;
+}
+
+.sunita_row {
+    height: 100px;
+    border: 2px dashed purple;
+}
+
+div.sunita_row>div {
+    height: 100%;
+    border: 1px dashed #000;
+}
+
+.anita3_row {
+    height: 100px;
+    border: 2px dashed blue;
+}
+
+.anita3_row >div:first-child {
+        height: 100%;
+        background-color: purple;
+}
+
+.anita3_row >div:nth-child(2) {
+    height: 100%;
+    background-color: brown;
+}
+.anita3_row >div:nth-child(3) {
+    height: 100%;
+    background-color: green;
+}
+.anita3_row >div:nth-child(4) {
+    height: 100%;
+    background-color: yellow;
+}
+.anita3_row >div:nth-child(5) {
+    height: 100%;
+    background-color: orange;
+}
+.anita3_row >div:nth-child(6) {
+    height: 100%;
+    background-color: violet;
+}
+.anita3_row >div:nth-child(7) {
+    height: 100%;
+    background-color: black;
+}
+.anita3_row >div:nth-child(8) {
+    height: 100%;
+    background-color: red;
+}
+.anita3_row >div:nth-child(9) {
+    height: 100%;
+    background-color: aqua;
+}
+.anita3_row >div:nth-child(10) {
+    height: 100%;
+    background-color: crimson;
+}
+.anita3_row >div:nth-child(11) {
+    height: 100%;
+    background-color: darkolivegreen;
+}
+
+.anita4_row {
+    height: 150px;
+    background-color: red;
+}
+
+.anita4_row >div:nth-child(2) {
+    height: 100%;
+    background-color: orangered;
+}
+.anita4_row >div:nth-child(3) {
+    height: 100%;
+    background-color: yellow;
+}
+.anita4_row >div:last-child {
+    height: 100%;
+    background-color: firebrick;
+}
+
+.anita5_row {
+    height: 200px;
+   border: 2px dashed purple;
+}
+
+.anita5_row >div:first-child {
+    height: 100%;
+   background-color: blue;
+}
+.anita5_row >div:nth-child(2) {
+    height: 100%;
+    background-color: orangered;
+}
+.anita5_row >div:nth-child(3) {
+    height: 100%;
+    background-color: rebeccapurple;
+}
+.anita5_row >div:last-child {
+    height: 100%;
+    background-color: forestgreen;
+}
+
+.anita6_row {
+    height: 200px;
+   border: 2px dashed black;
+}
+
+.anita6_row >div:first-child {
+    height: 100%;
+   background-color: forestgreen;
+}
+.anita6_row >div:nth-child(2) {
+    height: 100%;
+    background-color: purple;
+}
+.anita6_row >div:last-child {
+    height: 100%;
+    background-color: black;
+}
